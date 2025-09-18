@@ -27,7 +27,7 @@ A user-friendly and interactive movie recommendation system built using **Stream
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/charuu2/moviesystem.git
+   [git clone https://github.com/charuu2/moviesystem.git](https://github.com/priyalakshmi24/Movie-recommendation-system.git)
    ```
 
 2. Navigate to the project directory:
@@ -165,10 +165,9 @@ A machine learning-based movie recommendation system that continuously learns an
 
 ## About the Developer 👩‍💻
 
-Built with ❤️ by **Charu Rajput**
+Built with ❤️ by **Priyalakshmi Agarwal**
 
-- [GitHub Profile](https://github.com/charuu2)
-- [LinkedIn](https://www.linkedin.com/in/charu-rajput2/)
+
 
 Feel free to ⭐ the repository if you found it useful!
 
