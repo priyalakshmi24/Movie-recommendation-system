@@ -27,7 +27,7 @@ A user-friendly and interactive movie recommendation system built using **Stream
 
 1. Clone the repository:
    ```bash
-   [git clone https://github.com/charuu2/moviesystem.git](https://github.com/priyalakshmi24/Movie-recommendation-system.git)
+ (https://github.com/priyalakshmi24/Movie-recommendation-system.git)])
    ```
 
 2. Navigate to the project directory:
